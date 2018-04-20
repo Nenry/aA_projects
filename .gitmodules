@@ -1,0 +1,3 @@
+[submodule "screwedoku"]
+	path = screwedoku
+	url = https://github.com/Nenry/aA_projects.git
